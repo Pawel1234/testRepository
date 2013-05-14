@@ -2,7 +2,7 @@ package com.test;
 
 public class Main {
 
-	//test
+	//another test
 	public static void main(String... args) {
 		System.out.println("Test main");
 	}

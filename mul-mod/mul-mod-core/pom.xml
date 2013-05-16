@@ -4,12 +4,12 @@
 	<parent>
 		<artifactId>mul-mod</artifactId>
 		<groupId>com.test</groupId>
-		<version>true</version>
+		<version>1.4-SNAPSHOT</version>
 	</parent>
 
 	<groupId>com.test</groupId>
 	<artifactId>mul-mod-core</artifactId>
-	<version>true</version>
+	<version>1.4-SNAPSHOT</version>
 
 	<name>MUL-MOD-core</name>
 

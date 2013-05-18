@@ -56,7 +56,7 @@
         <repository>
             <id>fakerepo</id>
             <name>Local file system</name>
-            <url>file:///c:/gitReposrepo</url>
+            <url>file:///c:/gitRepos/repo</url>
         </repository>
         <snapshotRepository>
             <id>fakesnapshotrepo</id>
